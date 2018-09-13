@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Endeavor.Server", "Endeavor.Server\Endeavor.Server.csproj", "{A443FC3F-B878-433A-9B47-154D8AAF9B7C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Endeavor.Server.Tests", "Endeavor.Server.Tests\Endeavor.Server.Tests.csproj", "{18891B21-3A58-4407-92C6-BB2E880E9E3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A443FC3F-B878-433A-9B47-154D8AAF9B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A443FC3F-B878-433A-9B47-154D8AAF9B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A443FC3F-B878-433A-9B47-154D8AAF9B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A443FC3F-B878-433A-9B47-154D8AAF9B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18891B21-3A58-4407-92C6-BB2E880E9E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18891B21-3A58-4407-92C6-BB2E880E9E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18891B21-3A58-4407-92C6-BB2E880E9E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18891B21-3A58-4407-92C6-BB2E880E9E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92A1B34E-E12E-4270-B589-37A8174F9B54}
+	EndGlobalSection
+EndGlobal
